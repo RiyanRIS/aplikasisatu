@@ -3,6 +3,7 @@ import 'package:aplikasisatu/screens/login_page.dart'; // Ganti `your_project_na
 
 // void main() {
 //   runApp(LoginApp());
+// getx
 // }
 
 Future<void> main() async {
